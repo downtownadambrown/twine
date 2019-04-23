@@ -11,6 +11,11 @@
 # production
 /build
 
+# local trash
+/.cache
+/src/.cache
+/.idea
+
 # misc
 .DS_Store
 .env.local
